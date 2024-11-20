@@ -1,0 +1,23 @@
+Meno Male - Södermalm
+https://www.google.com/maps/place/Meno+Male+S%C3%B6dermalm/@59.3150774,18.0843609,15z/data=!4m5!3m4!1s0x0:0x7d275ed6540c89ae!8m2!3d59.3150774!4d18.0843609
+
+Mister York - Oskarshamn
+https://www.google.com/maps/place/Mister+York/@57.2508539,16.445298,15z/data=!4m2!3m1!1s0x0:0xb5730a6b12a5f33f?sa=X&ved=2ahUKEwj5zYvnpOr2AhWp4XMBHec6BnQQ_BJ6BAgmEAU
+
+Rusty Rascals - ND
+https://www.google.com/maps/place/Rusty+Rascals/@59.3034619,18.0900289,15z/data=!4m5!3m4!1s0x0:0xa155182f2ae8350c!8m2!3d59.3034207!4d18.0901572
+
+ChopChop Eskilstuna
+https://www.google.com/maps/place/ChopChop+Asian+Express/@59.3905008,16.4658164,15z/data=!4m5!3m4!1s0x0:0xb7f5c8a9d6cf8e01!8m2!3d59.390509!4d16.465848
+
+ChopCHop Eurostop
+https://www.google.com/maps/place/ChopChop+Eurostop/@59.2972832,15.2009381,15z/data=!4m5!3m4!1s0x0:0x9b177dc88b78bb49!8m2!3d59.2972832!4d15.2009381
+
+Misora Sushi Vallentuna
+https://www.google.com/maps/place/Misora+Sushi+Vallentuna/@59.5350313,18.0784048,15z/data=!4m2!3m1!1s0x0:0xc175f7f85e0273c4?sa=X&ved=2ahUKEwjKgKvqpMz2AhWtlYsKHWZGDbgQ_BJ6BAgyEAU
+
+Midan Odenplan
+https://www.google.com/maps/place/Midan/@59.343584,18.0531105,15z/data=!4m2!3m1!1s0x0:0xb13c5c95e3562ca7?sa=X&ved=2ahUKEwih--y8psz2AhV1IbcAHWAVCwQQ_BJ6BAgkEAU
+
+Rockin Grill
+https://www.google.com/maps/place/Rockin+Grill/@59.3541114,18.0885143,15z/data=!4m2!3m1!1s0x0:0xb88b60769c513a1c?sa=X&ved=2ahUKEwi2uOy4p8z2AhXksosKHcqCBbkQ_BJ6BAgmEAU

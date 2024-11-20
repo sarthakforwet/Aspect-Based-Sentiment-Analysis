@@ -1,0 +1,3 @@
+Download Stanford POS Tagger - https://nlp.stanford.edu/software/tagger.shtml (check for path around line 34)
+ChromeDriver - Depending on version (https://chromedriver.chromium.org/downloads) (check for path around line 144)
+TextBlob needs to be cloned from GitHub (https://github.com/sloria/TextBlob) and the file named "en-sentiment.xml" needs to replaced with TextBlob/textblob/en/en-sentiment.xml.

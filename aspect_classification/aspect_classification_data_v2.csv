@@ -1,0 +1,744 @@
+trg,cat
+place,PLACE
+staff,SERVICE
+food,FOOD
+portions,FOOD
+foie gras terrine with figs,FOOD
+duck confit,FOOD
+price,PRICE
+restaurant,PLACE
+cart attendant,SERVICE
+chow fun,FOOD
+pork shu mai,FOOD
+fish,FOOD
+oysters,FOOD
+restaurant saul,PLACE
+service,SERVICE
+decor,AMBIENCE
+duck breast special,FOOD
+thai fusion stuff,FOOD
+grilled chicken special with edamame puree,FOOD
+edamame pureed,FOOD
+vent,AMBIENCE
+spicy tuna roll,FOOD
+rock shrimp tempura,FOOD
+spot,PLACE
+ambience,AMBIENCE
+waiter,SERVICE
+sea urchin,FOOD
+sushi,FOOD
+rice to fish ration,FOOD
+half price sushi deal,FOOD
+crowd,AMBIENCE
+prix fixe menu,FOOD
+dishes,FOOD
+samosa,FOOD
+chai,FOOD
+chole,FOOD
+dosa,FOOD
+dhal,FOOD
+kitchen,SERVICE
+view,AMBIENCE
+lava cake dessert,FOOD
+cosette,AMBIENCE
+french onion soup,FOOD
+desserts,FOOD
+pizza,FOOD
+cheese,FOOD
+ingredients,FOOD
+crust,FOOD
+meals,FOOD
+seafood,FOOD
+menu,FOOD
+pastrami,FOOD
+portion,FOOD
+fried shrimp,FOOD
+specials menus,FOOD
+waitstaff,SERVICE
+specials,FOOD
+atmosphere,AMBIENCE
+french bistro fare,FOOD
+gnocchi,FOOD
+hostess,SERVICE
+wait,SERVICE
+people,SERVICE
+toppings,FOOD
+lunch,FOOD
+sauce,FOOD
+waitress,SERVICE
+block,PLACE
+tuna of gari,FOOD
+thai food,FOOD
+planet thailand,PLACE
+prices,PRICE
+rolls,FOOD
+sashimi,FOOD
+crunchy tuna,FOOD
+garden terrace,PLACE
+steak tartare,FOOD
+open kitchen,PLACE
+vibe,AMBIENCE
+french food,FOOD
+neighborhood,PLACE
+setting,AMBIENCE
+mizu restaurant,PLACE
+spicy scallop roll,FOOD
+moules,FOOD
+lobster ravioli,FOOD
+head waiter,SERVICE
+dessert,FOOD
+chef specials,FOOD
+downstairs lounge,PLACE
+exotic food,FOOD
+shows,AMBIENCE
+actors,SERVICE
+server,SERVICE
+tuna,FOOD
+wasabi potatoes,FOOD
+outdoor atmosphere,AMBIENCE
+fresh mozzarella,FOOD
+appetizer selection,FOOD
+wait staff,SERVICE
+pie,FOOD
+salad,FOOD
+dining,FOOD
+chicken pot pie,FOOD
+cheeseburger,FOOD
+bagels,FOOD
+1st ave spot,PLACE
+uni hand roll,FOOD
+lobster teriyaki,FOOD
+rose special roll,FOOD
+pork belly,FOOD
+traditional french decor,AMBIENCE
+hall,PLACE
+cafe spice,PLACE
+seating,SERVICE
+raw vegetables in side orders,FOOD
+semi-private booths,PLACE
+live jazz band,SERVICE
+meal,FOOD
+red eye grill,PLACE
+balance of herbs and tomatoes,FOOD
+hidden bathrooms,PLACE
+pumpkin tortellini,FOOD
+bagel,FOOD
+lobster roll,FOOD
+lobster,FOOD
+santa fe chopped salad,FOOD
+fish and chips,FOOD
+chow fun and chow see,FOOD
+scallion pancakes,FOOD
+fried dumplings,FOOD
+pad penang,FOOD
+fresh restaurant,PLACE
+chef,FOOD
+salads,FOOD
+special fried fish,FOOD
+yellowtail,FOOD
+all you can eat deal,FOOD
+waiters,SERVICE
+congee,FOOD
+noodles,FOOD
+rice dishes,FOOD
+takeout,SERVICE
+caesar salad,FOOD
+arugula and goat cheese,FOOD
+pasta dish,FOOD
+tiramisu,FOOD
+chocolate cake,FOOD
+manager,SERVICE
+good,FOOD
+radicchio,FOOD
+mushroom pizza,FOOD
+homemade pasta,FOOD
+hanger steak,FOOD
+filet mignon dish,FOOD
+ambient,AMBIENCE
+beef and noodle soup dishes,FOOD
+backyard dining area,PLACE
+tables,AMBIENCE
+rosemary or orange flavoring,FOOD
+tuna tartar appetizer,FOOD
+dining room,PLACE
+ambiance,AMBIENCE
+lobster bisque,FOOD
+new england chowder,FOOD
+prime rib,FOOD
+chicken vindaloo,FOOD
+servers,SERVICE
+lemon salad,FOOD
+grilled branzino,FOOD
+characters,AMBIENCE
+delivery,SERVICE
+cream cheeses,FOOD
+lox,FOOD
+shabu-shabu restaurant,PLACE
+feel,AMBIENCE
+owner,SERVICE
+location,PLACE
+green curry with vegetables,FOOD
+ravioli,FOOD
+parmesan porcini souffle,FOOD
+lamb glazed with balsamic vinegar,FOOD
+candle light,AMBIENCE
+mozzarella en carozza,FOOD
+back room,PLACE
+pepperoni,FOOD
+family style salad,FOOD
+vegetarian dishes,FOOD
+non veg,FOOD
+sea bass,FOOD
+dal bukhara,FOOD
+kebabs,FOOD
+rice,FOOD
+soy sauce,FOOD
+dinner,FOOD
+eggs benedict,FOOD
+room,PLACE
+planet thai,PLACE
+svc,SERVICE
+pad thai,FOOD
+sandwiches,FOOD
+chennai garden,PLACE
+indian,FOOD
+seats,SERVICE
+cigar bar,SERVICE
+portion sizes,FOOD
+lobster sandwich,FOOD
+spaghetti with scallops and shrimp,FOOD
+halibut special,FOOD
+steak,FOOD
+foods,FOOD
+jelly fish,FOOD
+drunken chicken,FOOD
+soupy dumplings,FOOD
+stir fry blue crab,FOOD
+cheese plate,FOOD
+bruschetta,FOOD
+cafe noir,PLACE
+calamari,FOOD
+thai cuisine,FOOD
+customer service,SERVICE
+gentleman,SERVICE
+milieu,AMBIENCE
+outside table,SERVICE
+unisex bathroom,PLACE
+caviar,FOOD
+salmon dish,FOOD
+dim sum,FOOD
+back patio,PLACE
+music,AMBIENCE
+buffet,FOOD
+cheesecake,FOOD
+pastries,FOOD
+cheeseburgers,FOOD
+burgers,FOOD
+pastrami sandwich on a roll,FOOD
+spice,FOOD
+tom kha soup,FOOD
+thai,FOOD
+pesto pizza,FOOD
+spicy italian cheese,FOOD
+back garden sitting area,PLACE
+french fries,FOOD
+scallops,FOOD
+japanese comfort food,FOOD
+lamb sausages,FOOD
+sardines with biscuits,FOOD
+large whole shrimp,FOOD
+pistachio ice cream,FOOD
+ceviche mix,FOOD
+crab dumplings,FOOD
+assorted sashimi,FOOD
+banana tempura,FOOD
+thai restaurant,PLACE
+gulab jamun,FOOD
+filet,FOOD
+frites,FOOD
+pizza place,PLACE
+pizzeria,PLACE
+pizzas,FOOD
+sophia pizza,FOOD
+blond wood decor,AMBIENCE
+kitchen food,FOOD
+cuisine,FOOD
+smoked salmon and roe appetizer,FOOD
+entree,FOOD
+taiwanese food,FOOD
+cold appetizer dishes,FOOD
+chicken and mashed potatos,FOOD
+crab cakes,FOOD
+garden,PLACE
+selection of thin crust pizza,FOOD
+basil slice,FOOD
+calzones,FOOD
+counter service,SERVICE
+dosas,FOOD
+clerks,SERVICE
+italian food,FOOD
+basic dishes,FOOD
+appetizers,FOOD
+spreads,FOOD
+williamsburg spot,PLACE
+proprietor,SERVICE
+turkey burgers,FOOD
+japanese food,FOOD
+soup for the udon,FOOD
+japanese cuisine,FOOD
+margherita slice,FOOD
+winnie,SERVICE
+appetizer menu,FOOD
+brioche and lollies,FOOD
+salmon,FOOD
+crab salad,FOOD
+mussels in spicy tomato sauce,FOOD
+fries,FOOD
+late night atmosphere,AMBIENCE
+in-house lady dj,SERVICE
+noodles with shrimp and chicken and coconut juice,FOOD
+terrace,PLACE
+indian food,FOOD
+balsamic vinegar over icecream,FOOD
+go go hamburgers,FOOD
+turnip cake,FOOD
+roast pork buns,FOOD
+egg custards,FOOD
+braised lamb shank in red wine,FOOD
+interior decor,AMBIENCE
+pad se ew chicken,FOOD
+ginger house,PLACE
+chinese restaurant,PLACE
+management,SERVICE
+indian cuisine,FOOD
+shrimp appetizers,FOOD
+eats,FOOD
+baked clams octopus,FOOD
+lamb,FOOD
+bar scene,AMBIENCE
+chicken,FOOD
+servings for main entree,FOOD
+veal,FOOD
+antipasto,FOOD
+pasta mains,FOOD
+shrimp scampi,FOOD
+antipasti,FOOD
+scene,AMBIENCE
+porcini mushroom pasta special,FOOD
+seafood tagliatelle,FOOD
+bbq ribs,FOOD
+main dining room,PLACE
+ceiling,AMBIENCE
+patio,PLACE
+hot sauce,FOOD
+outdoor seating,AMBIENCE
+chicken casserole,FOOD
+beef,FOOD
+lamb dishes,FOOD
+reuben sandwich,FOOD
+sauces,FOOD
+pakistani food,FOOD
+design,AMBIENCE
+seabass,FOOD
+goat cheese salad,FOOD
+penne with chicken,FOOD
+desert,FOOD
+jukebox,SERVICE
+pastas,FOOD
+roti rolls,FOOD
+unda rolls,FOOD
+spices,FOOD
+onions,FOOD
+eggs,FOOD
+roti,FOOD
+toons,SERVICE
+drumsticks over rice,FOOD
+sour spicy soup,FOOD
+beef noodle soup,FOOD
+indoor,AMBIENCE
+dumplings,FOOD
+crabmeat lasagna,FOOD
+chocolate bread pudding,FOOD
+egg noodles in the beef broth with shrimp dumplings and slices of bbq roast pork,FOOD
+dish,FOOD
+ow ley soh,FOOD
+chinese food,FOOD
+japanese tapas,FOOD
+yakitori,FOOD
+sushi chef,SERVICE
+rice avenue,PLACE
+nigiri,FOOD
+all you can eat sushi,FOOD
+view of the new york city skyline,AMBIENCE
+personal pans,FOOD
+delivery guys,SERVICE
+penne a la vodka,FOOD
+pasta penne,FOOD
+la rosa,FOOD
+selection,FOOD
+mussels,FOOD
+crew,SERVICE
+dining garden,PLACE
+jazz bar,PLACE
+thin crust pizzas,FOOD
+lasagna menu,FOOD
+bbq salmon,FOOD
+crispy duck,FOOD
+risottos,FOOD
+sepia,FOOD
+braised rabbit,FOOD
+dog,FOOD
+establishment,PLACE
+cypriot restaurant,PLACE
+pork souvlaki,FOOD
+eggplant pizza,FOOD
+interior,AMBIENCE
+space,AMBIENCE
+delivery guy,SERVICE
+millennium roll,FOOD
+views of the city,AMBIENCE
+seafood spaghetti,FOOD
+indo-chinese food,FOOD
+chicken pasta,FOOD
+vitello alla marsala,FOOD
+mushrooms,FOOD
+potato balls,FOOD
+bartender,SERVICE
+waitresses,SERVICE
+chicken teriyaki,FOOD
+the four seasons restaurant,PLACE
+red dragon roll,FOOD
+seafood dynamite,FOOD
+back garden area,PLACE
+dancing,SERVICE
+quesadilla,FOOD
+guacamole,FOOD
+indian place,PLACE
+view of river and nyc,AMBIENCE
+supervise,SERVICE
+egyptian restaurant,PLACE
+belly dancers,SERVICE
+hookah,SERVICE
+omelette for brunch,FOOD
+spinach,FOOD
+chicken in the salads,FOOD
+portobello and asparagus mole,FOOD
+gyros,FOOD
+gyro meat,FOOD
+sausages,FOOD
+greek and cypriot dishes,FOOD
+gyro,FOOD
+booths,SERVICE
+rooms,PLACE
+views,AMBIENCE
+paul,SERVICE
+bathroom,PLACE
+stuff tilapia,FOOD
+mens bathroom,PLACE
+bread,FOOD
+appetizer of olives,FOOD
+main course,FOOD
+pear torte,FOOD
+service button,SERVICE
+looks,AMBIENCE
+greg,SERVICE
+runner,SERVICE
+dogs,FOOD
+trimmings,FOOD
+hot dog,FOOD
+belly dancing show,SERVICE
+mushroom sauce,FOOD
+special roll,FOOD
+regular roll,FOOD
+banana chocolate dessert,FOOD
+green tea tempura,FOOD
+modern japanese,FOOD
+modern japanese food,FOOD
+indo chinese food,FOOD
+chinese style indian food,FOOD
+chicken lollipop,FOOD
+chilli chicken,FOOD
+vegetarian dish,FOOD
+patsy pizzeria,PLACE
+hot dogs,FOOD
+indian chinese food,FOOD
+indian chinese,FOOD
+village underground,PLACE
+dj,SERVICE
+dinner for two,FOOD
+environment,AMBIENCE
+bison,FOOD
+fried oysters and clams,FOOD
+lobster knuckles,FOOD
+salt encrusted shrimp appetizer,FOOD
+thai style fried sea bass,FOOD
+grilled mahi mahi,FOOD
+chicken tikka masala,FOOD
+lunch buffet,FOOD
+kimchee,FOOD
+korean fair,FOOD
+four course prix fix menu,FOOD
+bibimbap,FOOD
+stone bowl,FOOD
+stir-fried squid,FOOD
+side dishes,FOOD
+risotto,FOOD
+farro salad,FOOD
+mashed yukon potatoes,FOOD
+east village pizza,PLACE
+margherita pizza,FOOD
+slice of nyc pizza,FOOD
+unmarked wooden doors,SERVICE
+private booths,SERVICE
+glass ceilings,AMBIENCE
+bbe fixe prix menu,FOOD
+sashimi amuse bouche,FOOD
+grilled black cod,FOOD
+grilled salmon dish,FOOD
+frozen black sesame mousse,FOOD
+powdered green tea and blueberry cheesecake,FOOD
+pita bread,FOOD
+shabu shabu,FOOD
+meat,FOOD
+kimchi,FOOD
+korean food,FOOD
+fusion twists,FOOD
+pork belly tacos,FOOD
+pork croquette sandwich,FOOD
+bun,FOOD
+family seafood entree,FOOD
+main entree,FOOD
+mirrored walls,AMBIENCE
+sitting space,AMBIENCE
+appetizer,FOOD
+fit-out,AMBIENCE
+furnishings,AMBIENCE
+palace,PLACE
+pita,FOOD
+hummus,FOOD
+grilled octopus,FOOD
+eggplant,FOOD
+front of house staff,SERVICE
+fish dishes,FOOD
+girl,SERVICE
+frontman,SERVICE
+lamb special,FOOD
+flank steak,FOOD
+fish tacos,FOOD
+fire place,PLACE
+pasta,FOOD
+green tea creme brulee,FOOD
+onion rings,FOOD
+lemon chicken,FOOD
+honey walnut prawns,FOOD
+italian restaurant,PLACE
+staff members,SERVICE
+miso soup,FOOD
+apps,FOOD
+bus boy,SERVICE
+salsa,FOOD
+deck,PLACE
+bartenders,SERVICE
+owners,SERVICE
+upstairs,AMBIENCE
+balcony,PLACE
+jellyfish,FOOD
+horse mackerel,FOOD
+blue fin tuna,FOOD
+pieces,FOOD
+pumpkin ravioli,FOOD
+goat cheese gnocchi,FOOD
+filet mignon on top of spinach and mashed potatoes,FOOD
+artwork,AMBIENCE
+chicken curry,FOOD
+chana masala,FOOD
+saag,FOOD
+paneer,FOOD
+korma,FOOD
+lamb korma,FOOD
+saag paneer,FOOD
+samosas,FOOD
+naan,FOOD
+chickpeas,FOOD
+fajita salad,FOOD
+colorado,FOOD
+fajitas,FOOD
+lunch spot,PLACE
+mexican spot,PLACE
+taco salads,FOOD
+burritos,FOOD
+enchiladas,FOOD
+lebanese food,FOOD
+open sesame,PLACE
+chicken shawarma,FOOD
+dinners,FOOD
+open sesame combo plate,FOOD
+side of potatoes,FOOD
+yogurt dip,FOOD
+band,SERVICE
+shoe string onions,FOOD
+goat cheese pizza,FOOD
+grilled asparagus,FOOD
+fried brie with fruit,FOOD
+sommelier,SERVICE
+potions,FOOD
+pizza menu,FOOD
+servers behind the counter,SERVICE
+pancakes,FOOD
+potatoes,FOOD
+fresh fruit,FOOD
+yogurt,FOOD
+oyster roll,FOOD
+sushi place,PLACE
+house special roll,FOOD
+brunch,FOOD
+egg white omelet,FOOD
+mexican place,PLACE
+chicken soup,FOOD
+cooks,FOOD
+employees,SERVICE
+art on the walls,AMBIENCE
+lunch menu,FOOD
+brunch food,FOOD
+regular menu,FOOD
+soho location,PLACE
+fluke,FOOD
+yellow tail,FOOD
+shrimp,FOOD
+sea bream,FOOD
+trout,FOOD
+milk fish,FOOD
+eel,FOOD
+crab,FOOD
+sardine,FOOD
+monk fish,FOOD
+roe,FOOD
+scallop,FOOD
+toro,FOOD
+blue ribbon restaurant,PLACE
+smoked yellowtail,FOOD
+waiting staff,SERVICE
+appetizer of oysters lobster crab,FOOD
+seabass on lobster risotto,FOOD
+bar keep,SERVICE
+cakes,FOOD
+seasonal fish,FOOD
+waterfront setting,AMBIENCE
+caeser salad,FOOD
+young woman,SERVICE
+breakfast,FOOD
+crab eggs benedict,FOOD
+menu items,FOOD
+prawns,FOOD
+batter,FOOD
+walnuts,FOOD
+mango ginger creme brulee,FOOD
+glass walls,AMBIENCE
+box sushi,FOOD
+eel with avocado,FOOD
+specialty rolls,FOOD
+location along the marina in long beach,PLACE
+restaurant staff,SERVICE
+dungeness crabs,FOOD
+seafood dinners,FOOD
+black cod in sake kasu,FOOD
+dessert of a port and chocolate tasting,FOOD
+corn beef hash,FOOD
+b fast burritos,FOOD
+cheese fries,FOOD
+price fixed pre-show dinner,FOOD
+wood decor,AMBIENCE
+subwoofer to the sound system,AMBIENCE
+shellfish and shrimp appetizer,FOOD
+asparagus,FOOD
+9 oz steak,FOOD
+peppercorn sauce,FOOD
+red wine reduction,FOOD
+lobster 3 ways,FOOD
+bathroom stall,PLACE
+feeling,AMBIENCE
+mioposto cafe,PLACE
+chef special dinner,FOOD
+plate,FOOD
+exotic fish,FOOD
+sushi dishes,FOOD
+menu selection,FOOD
+creme brulee,FOOD
+indoor ambience,AMBIENCE
+table,AMBIENCE
+filet mignon,FOOD
+restroom,PLACE
+chips  and salsa,FOOD
+catering,FOOD
+snooze,AMBIENCE
+breakfast burrito,FOOD
+ray boathouse,PLACE
+sound views,AMBIENCE
+brooke,SERVICE
+white gulf prawns,FOOD
+manila clams,FOOD
+butter sauce,FOOD
+shilshole sampler,FOOD
+seared alaskan sea scallops,FOOD
+grilled alaskan king salmon,FOOD
+creamed washington russet potatoes,FOOD
+green beans,FOOD
+entertainment,AMBIENCE
+tiramisu chocolate cake,FOOD
+outdoor restaurants,PLACE
+quantity,FOOD
+meat dishes,FOOD
+table by the window,PLACE
+host,SERVICE
+entrees,FOOD
+wages,PRICE
+barter,PRICE
+market value,PRICE
+service charge,PRICE
+price tag,PRICE
+fee,PRICE
+jackpot,PRICE
+premium,PRICE
+list price,PRICE
+account,PRICE
+money,PRICE
+cash,PRICE
+bill,PRICE
+overcharge,PRICE
+retail,PRICE
+ante,PRICE
+carrying charge,PRICE
+valuation,PRICE
+price point,PRICE
+sale,PRICE
+check,PRICE
+deduction,PRICE
+asking price,PRICE
+tip,PRICE
+unit price,PRICE
+discount,PRICE
+cost,PRICE
+reduction,PRICE
+fair market value,PRICE
+wholesale,PRICE
+down payment,PRICE
+tab,PRICE
+toll,PRICE
+sticker price,PRICE
+invoice,PRICE
+wage,PRICE
+tariff,PRICE
+value,PRICE
+figure,PRICE
+charge,PRICE
+freight,PRICE
+rate,PRICE
+dues,PRICE
+gratuity,PRICE
+service fee,PRICE
+surcharge,PRICE
+bonanza,PRICE
+treasure,PRICE
+deposit,PRICE
+damage,PRICE
+markdown,PRICE

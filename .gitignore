@@ -1,0 +1,12 @@
+__pycache__
+Review_aspect_extraction
+data
+dump
+GCAE
+glove.6B
+papers
+shopsReviewData
+stanford-postagger-full
+svm_model.pkl
+TextBlob
+.ipynb*

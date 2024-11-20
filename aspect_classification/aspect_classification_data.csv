@@ -1,0 +1,960 @@
+trg,cat
+place,RESTAURANT#GENERAL
+staff,SERVICE#GENERAL
+food,FOOD#QUALITY
+portions,FOOD#STYLE_OPTIONS
+Saul,RESTAURANT#GENERAL
+foie gras terrine with figs,FOOD#QUALITY
+duck confit,FOOD#QUALITY
+wine list,DRINKS#STYLE_OPTIONS
+price,RESTAURANT#PRICES
+restaurant,RESTAURANT#GENERAL
+cart attendant,SERVICE#GENERAL
+Food,FOOD#QUALITY
+Chow fun,FOOD#QUALITY
+pork shu mai,FOOD#QUALITY
+Fish,RESTAURANT#GENERAL
+Service,SERVICE#GENERAL
+oysters,FOOD#QUALITY
+Restaurant Saul,RESTAURANT#GENERAL
+service,SERVICE#GENERAL
+decor,AMBIENCE#GENERAL
+duck breast special,FOOD#QUALITY
+Thai fusion stuff,FOOD#QUALITY
+Grilled Chicken special with Edamame Puree,FOOD#QUALITY
+Edamame pureed,FOOD#QUALITY
+vent,AMBIENCE#GENERAL
+sake list,DRINKS#STYLE_OPTIONS
+spicy tuna roll,FOOD#QUALITY
+rock shrimp tempura,FOOD#QUALITY
+pink pony,RESTAURANT#GENERAL
+spot,RESTAURANT#GENERAL
+Ambiance,AMBIENCE#GENERAL
+waiter,SERVICE#GENERAL
+sea urchin,FOOD#QUALITY
+sushi,FOOD#QUALITY
+rice to fish ration,FOOD#STYLE_OPTIONS
+half price sushi deal,FOOD#QUALITY
+crowd,RESTAURANT#MISCELLANEOUS
+Prix Fixe menu,FOOD#QUALITY
+dishes,FOOD#QUALITY
+somosas,FOOD#QUALITY
+chai,FOOD#QUALITY
+chole,FOOD#QUALITY
+dhosas,FOOD#QUALITY
+dhal,FOOD#QUALITY
+kitchen,SERVICE#GENERAL
+ambience,AMBIENCE#GENERAL
+view,LOCATION#GENERAL
+lava cake dessert,FOOD#QUALITY
+Cosette,AMBIENCE#GENERAL
+French Onion soup,FOOD#QUALITY
+desserts,FOOD#QUALITY
+pizza,FOOD#QUALITY
+cheese,FOOD#QUALITY
+ingredients,FOOD#QUALITY
+crust,FOOD#QUALITY
+meals,FOOD#QUALITY
+seafood,FOOD#QUALITY
+menu,FOOD#STYLE_OPTIONS
+Pastrami,FOOD#QUALITY
+portion,FOOD#STYLE_OPTIONS
+fried shrimp,FOOD#STYLE_OPTIONS
+signs,RESTAURANT#MISCELLANEOUS
+specials menus,FOOD#STYLE_OPTIONS
+waitstaff,SERVICE#GENERAL
+Leon,RESTAURANT#GENERAL
+specials,FOOD#QUALITY
+atmosphere,AMBIENCE#GENERAL
+French bistro fare,FOOD#QUALITY
+wine,DRINKS#QUALITY
+Zucchero Pomodori,RESTAURANT#GENERAL
+Gnocchi,RESTAURANT#GENERAL
+hostess,SERVICE#GENERAL
+wait,SERVICE#GENERAL
+glass of wine,DRINKS#QUALITY
+people,SERVICE#GENERAL
+atmoshpere,AMBIENCE#GENERAL
+toppings,FOOD#PRICES
+lunch,FOOD#QUALITY
+Sauce,FOOD#QUALITY
+waitress,SERVICE#GENERAL
+block,LOCATION#GENERAL
+tuna of gari,FOOD#QUALITY
+thai food,FOOD#QUALITY
+Planet Thailand,RESTAURANT#GENERAL
+prices,RESTAURANT#PRICES
+rolls,FOOD#STYLE_OPTIONS
+sashimi,FOOD#QUALITY
+crunchy tuna,FOOD#QUALITY
+garden terrace,AMBIENCE#GENERAL
+Steak Tartare,FOOD#STYLE_OPTIONS
+open kitchen,AMBIENCE#GENERAL
+wine selection,DRINKS#STYLE_OPTIONS
+Gigondas,DRINKS#QUALITY
+house champagne,DRINKS#PRICES
+vibe,AMBIENCE#GENERAL
+French food,FOOD#QUALITY
+VT's,RESTAURANT#MISCELLANEOUS
+neighborhood,LOCATION#GENERAL
+setting,AMBIENCE#GENERAL
+Mizu,RESTAURANT#GENERAL
+Spicy Scallop roll,FOOD#QUALITY
+Moules,FOOD#QUALITY
+lobster ravioli,FOOD#QUALITY
+maitre d',SERVICE#GENERAL
+dessert,FOOD#STYLE_OPTIONS
+drinks,DRINKS#QUALITY
+chef's specials,FOOD#QUALITY
+Downstairs lounge,AMBIENCE#GENERAL
+Raga's,AMBIENCE#GENERAL
+exotic food,FOOD#STYLE_OPTIONS
+bar,DRINKS#STYLE_OPTIONS
+beers,DRINKS#STYLE_OPTIONS
+wines,DRINKS#PRICES
+Jekyll and Hyde,RESTAURANT#GENERAL
+shows,AMBIENCE#GENERAL
+actors,AMBIENCE#GENERAL
+server,SERVICE#GENERAL
+tuna,FOOD#QUALITY
+wasabe potatoes,FOOD#QUALITY
+outdoor atmosphere,LOCATION#GENERAL
+Prices,RESTAURANT#PRICES
+fresh mozzarella,FOOD#QUALITY
+appetizer selection,FOOD#STYLE_OPTIONS
+Wait staff,SERVICE#GENERAL
+pie,FOOD#QUALITY
+salad,FOOD#QUALITY
+dining,FOOD#QUALITY
+chicken pot pie,FOOD#QUALITY
+cheeseburger,FOOD#STYLE_OPTIONS
+bagels,FOOD#QUALITY
+1st Ave spot,RESTAURANT#MISCELLANEOUS
+Uni Hand roll,FOOD#QUALITY
+sake menu,DRINKS#STYLE_OPTIONS
+lobster teriyaki,FOOD#QUALITY
+rose special roll,FOOD#QUALITY
+pork belly,FOOD#QUALITY
+Wine list selection,DRINKS#STYLE_OPTIONS
+wine-by-the-glass,DRINKS#STYLE_OPTIONS
+Traditional French decour,AMBIENCE#GENERAL
+hall,AMBIENCE#GENERAL
+Cafe Spice,RESTAURANT#GENERAL
+Seating,SERVICE#GENERAL
+raw vegatables in side orders,FOOD#QUALITY
+semi-private boths,AMBIENCE#GENERAL
+Red Eye,RESTAURANT#GENERAL
+live jazz band,AMBIENCE#GENERAL
+meal,FOOD#QUALITY
+Red Eye Grill,RESTAURANT#GENERAL
+balance of herbs and tomatoes,FOOD#QUALITY
+Jekyll and hyde Pub,RESTAURANT#GENERAL
+hidden bathrooms,AMBIENCE#GENERAL
+Jekyll and Hyde Pub,RESTAURANT#GENERAL
+pumkin tortelini,FOOD#QUALITY
+bagel,FOOD#STYLE_OPTIONS
+lobster roll,FOOD#QUALITY
+lobster,FOOD#QUALITY
+santa fe chopped salad,FOOD#QUALITY
+fish and chips,FOOD#QUALITY
+chow fun and chow see,FOOD#QUALITY
+scallion pancakes,FOOD#QUALITY
+fried dumplings,FOOD#QUALITY
+pad penang,FOOD#QUALITY
+fresh restaurant,RESTAURANT#GENERAL
+chef,FOOD#QUALITY
+salads,FOOD#QUALITY
+Pam's special fried fish,FOOD#QUALITY
+Ambience,AMBIENCE#GENERAL
+Salads,FOOD#QUALITY
+Ingredients,FOOD#QUALITY
+spicy Tuna roll,FOOD#STYLE_OPTIONS
+Yellowtail,FOOD#QUALITY
+all you can eat deal,FOOD#STYLE_OPTIONS
+Big Wong,RESTAURANT#GENERAL
+waiters,SERVICE#GENERAL
+congee,FOOD#PRICES
+noodles,FOOD#PRICES
+rice dishes,FOOD#PRICES
+takeout,SERVICE#GENERAL
+Caesar Salad,FOOD#QUALITY
+arugula and goat cheese,FOOD#QUALITY
+pasta dish,FOOD#QUALITY
+tiramisu,FOOD#QUALITY
+chocolate cake,FOOD#QUALITY
+Manager,SERVICE#GENERAL
+good,FOOD#QUALITY
+Patis,RESTAURANT#GENERAL
+Pastis,RESTAURANT#GENERAL
+raddichio,FOOD#QUALITY
+mushroom pizza,FOOD#QUALITY
+sangria,DRINKS#QUALITY
+Bombay beer,DRINKS#STYLE_OPTIONS
+Pizza,FOOD#QUALITY
+homemade pasta,FOOD#QUALITY
+hanger steak,FOOD#QUALITY
+filet mignon dish,FOOD#QUALITY
+ambient,AMBIENCE#GENERAL
+beef and noodle soup dishes,FOOD#QUALITY
+backyard dining area,AMBIENCE#GENERAL
+tables,AMBIENCE#GENERAL
+Teodora,RESTAURANT#GENERAL
+rosemary or orange flavoring,FOOD#QUALITY
+wait staff,SERVICE#GENERAL
+expresso,DRINKS#QUALITY
+Myagi,RESTAURANT#GENERAL
+fish,FOOD#QUALITY
+tuna tartar appetizer,FOOD#QUALITY
+dining room,AMBIENCE#GENERAL
+ambiance,AMBIENCE#GENERAL
+Lobster Bisque,FOOD#STYLE_OPTIONS
+New England Chowder,FOOD#QUALITY
+Prime Rib,FOOD#QUALITY
+bottles of Korbett,DRINKS#STYLE_OPTIONS
+chicken vindaloo,FOOD#QUALITY
+servers,SERVICE#GENERAL
+selection of wines,DRINKS#STYLE_OPTIONS
+Chef's tasting menu,FOOD#QUALITY
+prixe fixe tasting menu,FOOD#QUALITY
+lemon salad,FOOD#QUALITY
+grilled branzino,FOOD#QUALITY
+Prune,RESTAURANT#GENERAL
+characters,AMBIENCE#GENERAL
+Jeckll and Hydes,RESTAURANT#GENERAL
+Drinks,DRINKS#PRICES
+iced tea,DRINKS#QUALITY
+Delivery,SERVICE#GENERAL
+seating,SERVICE#GENERAL
+cream cheeses,FOOD#STYLE_OPTIONS
+lox,FOOD#QUALITY
+resturant,AMBIENCE#GENERAL
+Shabu-Shabu Restaurant,RESTAURANT#GENERAL
+feel,AMBIENCE#GENERAL
+Shabu-Shabu,FOOD#QUALITY
+owner,RESTAURANT#MISCELLANEOUS
+Taxan,FOOD#QUALITY
+location,LOCATION#GENERAL
+green curry with vegetables,FOOD#QUALITY
+ravioli,FOOD#QUALITY
+trattoria,AMBIENCE#GENERAL
+regular menu-fare,FOOD#QUALITY
+parmesean porcini souffle,FOOD#QUALITY
+lamb glazed with balsamic vinegar,FOOD#QUALITY
+candle-light,AMBIENCE#GENERAL
+marinara/arrabiatta sauce,FOOD#QUALITY
+mozzarella en Carozza,FOOD#QUALITY
+back room,AMBIENCE#GENERAL
+Emilio,RESTAURANT#GENERAL
+wine choices,DRINKS#STYLE_OPTIONS
+pepperoni,FOOD#QUALITY
+family style salad,FOOD#QUALITY
+Amma,RESTAURANT#GENERAL
+vegetarian dishes,FOOD#QUALITY
+non-veg selections,FOOD#QUALITY
+Decor,AMBIENCE#GENERAL
+sea bass,FOOD#QUALITY
+Dal Bukhara,FOOD#QUALITY
+kababs,FOOD#QUALITY
+Haru on Park S,RESTAURANT#GENERAL
+rice,FOOD#QUALITY
+all-u-can-eat sushi,FOOD#QUALITY
+soy sauce,FOOD#QUALITY
+waitstaffs,SERVICE#GENERAL
+Roth's,RESTAURANT#GENERAL
+dinner,FOOD#QUALITY
+eggs benedict,FOOD#QUALITY
+room,AMBIENCE#GENERAL
+Planet Thai,RESTAURANT#GENERAL
+svc,SERVICE#GENERAL
+Pad Thai,FOOD#QUALITY
+sandwiches,FOOD#STYLE_OPTIONS
+Chennai Garden,RESTAURANT#GENERAL
+Indian,FOOD#QUALITY
+seats,AMBIENCE#GENERAL
+cigar bar,AMBIENCE#GENERAL
+portion sizes,FOOD#STYLE_OPTIONS
+PLACE,RESTAURANT#GENERAL
+Waitstaff,SERVICE#GENERAL
+YUKA,RESTAURANT#GENERAL
+Mermaid Inn,RESTAURANT#GENERAL
+lobster sandwich,FOOD#QUALITY
+spaghetti with Scallops and Shrimp,FOOD#QUALITY
+halibut special,FOOD#QUALITY
+steak,FOOD#QUALITY
+foods,FOOD#QUALITY
+jelly fish,FOOD#QUALITY
+drunken chicken,FOOD#QUALITY
+soupy dumplings,FOOD#QUALITY
+stir fry blue crab,FOOD#QUALITY
+Cheese plate,FOOD#QUALITY
+bruschettas,FOOD#STYLE_OPTIONS
+paninis,FOOD#STYLE_OPTIONS
+tramezzinis,FOOD#STYLE_OPTIONS
+"asparagus, truffle oil, parmesan bruschetta",FOOD#QUALITY
+Wine list,DRINKS#STYLE_OPTIONS
+Cafe Noir,RESTAURANT#GENERAL
+manager,SERVICE#GENERAL
+calamari,FOOD#QUALITY
+thai cuisine,FOOD#QUALITY
+customer service,SERVICE#GENERAL
+gentleman,SERVICE#GENERAL
+mileau,AMBIENCE#GENERAL
+Casimir,RESTAURANT#GENERAL
+outside table,AMBIENCE#GENERAL
+unisex bathroom,AMBIENCE#GENERAL
+caviar,FOOD#QUALITY
+salmon dish,FOOD#QUALITY
+Change Mojito,DRINKS#QUALITY
+dim sum,FOOD#QUALITY
+back patio,AMBIENCE#GENERAL
+music,AMBIENCE#GENERAL
+buffet,FOOD#STYLE_OPTIONS
+cheesecake,FOOD#QUALITY
+pastries,FOOD#QUALITY
+cheeseburgers,FOOD#STYLE_OPTIONS
+burgers,FOOD#STYLE_OPTIONS
+pastrami sandwich on a roll,FOOD#STYLE_OPTIONS
+spice,FOOD#QUALITY
+Tom Kha soup,FOOD#QUALITY
+Thai,FOOD#QUALITY
+pesto pizza,FOOD#QUALITY
+spicy Italian cheese,FOOD#QUALITY
+back garden sitting area,AMBIENCE#GENERAL
+french fries,FOOD#QUALITY
+scallops,FOOD#QUALITY
+sauce,FOOD#QUALITY
+martinis,DRINKS#QUALITY
+japanese comfort food,FOOD#QUALITY
+lamb sausages,FOOD#QUALITY
+sardines with biscuits,FOOD#QUALITY
+large whole shrimp,FOOD#QUALITY
+pistachio ice cream,FOOD#QUALITY
+delivery,SERVICE#GENERAL
+ceviche mix (special),FOOD#QUALITY
+crab dumplings,FOOD#QUALITY
+assorted sashimi,FOOD#QUALITY
+sake,DRINKS#QUALITY
+banana tempura,FOOD#QUALITY
+Thai food,FOOD#QUALITY
+Thai restaurant,RESTAURANT#MISCELLANEOUS
+Gulab Jamun (dessert),FOOD#QUALITY
+Guacamole+shrimp appetizer,FOOD#QUALITY
+filet,FOOD#QUALITY
+frites,FOOD#QUALITY
+pizza place,RESTAURANT#MISCELLANEOUS
+mare,RESTAURANT#GENERAL
+pizzeria,RESTAURANT#GENERAL
+pizzas,FOOD#QUALITY
+Sophia pizza,FOOD#QUALITY
+blond wood decor,AMBIENCE#GENERAL
+premium sake,DRINKS#QUALITY
+kitchen food,FOOD#QUALITY
+Sushi,FOOD#QUALITY
+cuisine,FOOD#QUALITY
+Thalia,AMBIENCE#GENERAL
+smoked salmon and roe appetizer,FOOD#QUALITY
+entree,FOOD#QUALITY
+strawberry daiquiries,DRINKS#QUALITY
+Taiwanese food,FOOD#QUALITY
+cold appetizer dishes,FOOD#QUALITY
+mahi mahi (on saffron risotto,FOOD#QUALITY
+chicken and mashed potatos,FOOD#QUALITY
+crab cakes,FOOD#QUALITY
+garden,AMBIENCE#GENERAL
+joint,RESTAURANT#GENERAL
+selection of thin crust pizza,FOOD#STYLE_OPTIONS
+Basil slice,FOOD#QUALITY
+calzones,FOOD#QUALITY
+counter service,SERVICE#GENERAL
+PIZZA 33,RESTAURANT#GENERAL
+dosas,FOOD#STYLE_OPTIONS
+clerks,SERVICE#GENERAL
+Italian food,FOOD#QUALITY
+basic dishes,FOOD#QUALITY
+apppetizers,FOOD#QUALITY
+sushimi cucumber roll,FOOD#QUALITY
+spreads,FOOD#QUALITY
+beverage selections,DRINKS#STYLE_OPTIONS
+Pizza 33,RESTAURANT#GENERAL
+Williamsburg spot,RESTAURANT#GENERAL
+proprietor,SERVICE#GENERAL
+coffee,DRINKS#QUALITY
+Bagels,FOOD#QUALITY
+turkey burgers,FOOD#QUALITY
+Japanese food,FOOD#QUALITY
+soup for the udon,FOOD#QUALITY
+Japanese cuisine,FOOD#QUALITY
+bottle minimun,DRINKS#PRICES
+Margheritta slice,FOOD#QUALITY
+atmoshere,AMBIENCE#GENERAL
+Winnie,SERVICE#GENERAL
+appetizer menu,FOOD#QUALITY
+brioche and lollies,FOOD#QUALITY
+salmon,FOOD#QUALITY
+crab salad,FOOD#QUALITY
+Lucky Strike,RESTAURANT#GENERAL
+mussels in spicy tomato sauce,FOOD#QUALITY
+fries,FOOD#QUALITY
+late night atmosphere,AMBIENCE#GENERAL
+martini,DRINKS#QUALITY
+Vanilla Shanty,DRINKS#QUALITY
+in-house lady DJ,AMBIENCE#GENERAL
+Suan,RESTAURANT#GENERAL
+noodles with shrimp and chicken and coconut juice,FOOD#QUALITY
+terrace,AMBIENCE#GENERAL
+Indian food,FOOD#QUALITY
+balsamic vinegar over icecream,FOOD#QUALITY
+Go Go Hamburgers,FOOD#QUALITY
+turnip cake,FOOD#QUALITY
+roast pork buns,FOOD#QUALITY
+egg custards,FOOD#QUALITY
+braised lamb shank in red wine,FOOD#QUALITY
+interior decor,AMBIENCE#GENERAL
+pad se ew chicken,FOOD#QUALITY
+pad thai,FOOD#QUALITY
+Ginger House,RESTAURANT#GENERAL
+Chinese restaurant,RESTAURANT#GENERAL
+management,SERVICE#GENERAL
+Spreads,FOOD#QUALITY
+Rao,RESTAURANT#GENERAL
+indian cuisine,FOOD#QUALITY
+shrimp appetizers,FOOD#QUALITY
+eats,FOOD#QUALITY
+indian food,FOOD#QUALITY
+cheff,FOOD#STYLE_OPTIONS
+baked clams octopus,FOOD#QUALITY
+lamb,FOOD#QUALITY
+bar scene,AMBIENCE#GENERAL
+Appetizers,FOOD#QUALITY
+potato stuff kanish,FOOD#QUALITY
+chicken,FOOD#QUALITY
+servings for main entree,FOOD#STYLE_OPTIONS
+Dessert,FOOD#QUALITY
+veal,FOOD#STYLE_OPTIONS
+anti-pasta,FOOD#QUALITY
+pasta mains,FOOD#QUALITY
+measures of liquers,DRINKS#STYLE_OPTIONS
+SEASONAL beer,DRINKS#QUALITY
+Heartland Brewery,RESTAURANT#GENERAL
+beer,DRINKS#QUALITY
+shrimp scampi,FOOD#QUALITY
+antipasti,FOOD#STYLE_OPTIONS
+Corona,RESTAURANT#GENERAL
+atomosphere,AMBIENCE#GENERAL
+porcini mushroom pasta special,FOOD#QUALITY
+seafood tagliatelle,FOOD#QUALITY
+BBQ ribs,FOOD#QUALITY
+congee (rice porridge),FOOD#QUALITY
+main dining room,AMBIENCE#GENERAL
+ceiling,AMBIENCE#GENERAL
+patio,AMBIENCE#GENERAL
+hot sauce,FOOD#QUALITY
+drink,DRINKS#QUALITY
+cheescake,FOOD#QUALITY
+outdoor seating,AMBIENCE#GENERAL
+selecion of wines,DRINKS#STYLE_OPTIONS
+chicken casserole,FOOD#QUALITY
+beef,FOOD#QUALITY
+lamb dishes,FOOD#QUALITY
+Reuben sandwich,FOOD#QUALITY
+Bloom's,RESTAURANT#GENERAL
+sauces,FOOD#QUALITY
+Ravioli,FOOD#QUALITY
+wines by the glass,DRINKS#STYLE_OPTIONS
+setting/atmosphere,AMBIENCE#GENERAL
+Pakistani food,FOOD#QUALITY
+People,SERVICE#GENERAL
+Faan,RESTAURANT#GENERAL
+design,AMBIENCE#GENERAL
+bottles of wine,DRINKS#PRICES
+mussles,FOOD#QUALITY
+seabass,FOOD#QUALITY
+goat cheese salad,FOOD#QUALITY
+penne w/ chicken,FOOD#QUALITY
+desert,FOOD#QUALITY
+jukebox,AMBIENCE#GENERAL
+pastas,FOOD#STYLE_OPTIONS
+Usha,SERVICE#GENERAL
+sassy lassi,DRINKS#QUALITY
+roti rolls,FOOD#QUALITY
+Unda (Egg) rolls,FOOD#QUALITY
+spices,FOOD#QUALITY
+onions,FOOD#QUALITY
+eggs,FOOD#QUALITY
+roti,FOOD#QUALITY
+Toons,AMBIENCE#GENERAL
+drumsticks over rice,FOOD#QUALITY
+sour spicy soup,FOOD#QUALITY
+Beef noodle soup,FOOD#QUALITY
+Rao's,RESTAURANT#GENERAL
+Indoor,AMBIENCE#GENERAL
+Staff,SERVICE#GENERAL
+dumplings,FOOD#QUALITY
+$10 10-piece dim sum combo,FOOD#QUALITY
+crabmeat lasagna,FOOD#QUALITY
+chocolate bread pudding,FOOD#QUALITY
+egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork,FOOD#QUALITY
+dish,FOOD#QUALITY
+Ow Ley Soh,FOOD#QUALITY
+Chinese food,FOOD#QUALITY
+jazz duo,AMBIENCE#GENERAL
+wine by the glass,DRINKS#QUALITY
+Japanese Tapas,FOOD#QUALITY
+Atmosphere,AMBIENCE#GENERAL
+Yakitori (bbq meats),FOOD#QUALITY
+sushi chef,RESTAURANT#MISCELLANEOUS
+Price,RESTAURANT#GENERAL
+Rice Avenue,AMBIENCE#GENERAL
+wait-staff,SERVICE#GENERAL
+Baluchi's,RESTAURANT#PRICES
+nigiri,FOOD#QUALITY
+all you can eat sushi,FOOD#PRICES
+Areo,RESTAURANT#GENERAL
+view of the new york city skiline,LOCATION#GENERAL
+Personal pans,FOOD#STYLE_OPTIONS
+delivery guys,SERVICE#GENERAL
+scene,AMBIENCE#GENERAL
+penne a la vodka,FOOD#STYLE_OPTIONS
+pasta penne,FOOD#QUALITY
+La Rosa,FOOD#QUALITY
+selection,FOOD#STYLE_OPTIONS
+mussels,FOOD#QUALITY
+Vittorio,SERVICE#GENERAL
+crew,SERVICE#GENERAL
+Dining Garden,AMBIENCE#GENERAL
+Jazz Bar,AMBIENCE#GENERAL
+Thin Crust Pizzas,FOOD#QUALITY
+Lasagna Menu,FOOD#QUALITY
+BBQ Salmon,FOOD#QUALITY
+Sea Bass,FOOD#QUALITY
+Crispy Duck,FOOD#QUALITY
+Al Di La,RESTAURANT#GENERAL
+risottos,FOOD#QUALITY
+sepia,FOOD#QUALITY
+braised rabbit,FOOD#QUALITY
+Dog,FOOD#QUALITY
+dog,FOOD#QUALITY
+establishment,RESTAURANT#MISCELLANEOUS
+Cypriot restaurant,RESTAURANT#GENERAL
+pork souvlaki,FOOD#QUALITY
+eggplant pizza,FOOD#QUALITY
+half/half pizza,FOOD#STYLE_OPTIONS
+interior,AMBIENCE#GENERAL
+space,AMBIENCE#GENERAL
+Delivery guy,SERVICE#GENERAL
+millennium roll,FOOD#QUALITY
+views of the city,LOCATION#GENERAL
+Place,RESTAURANT#MISCELLANEOUS
+seafood spaghetti,FOOD#QUALITY
+indo-chinese food,FOOD#QUALITY
+chicken pasta,FOOD#QUALITY
+restaraunt,RESTAURANT#GENERAL
+vitello alla marsala,FOOD#QUALITY
+mushrooms,FOOD#QUALITY
+potato balls,FOOD#QUALITY
+bartender,SERVICE#GENERAL
+waitresses,SERVICE#GENERAL
+japanese food,FOOD#PRICES
+Chicken teriyaki,FOOD#STYLE_OPTIONS
+The Four Seasons,RESTAURANT#PRICES
+Red Dragon Roll,FOOD#QUALITY
+Yamato,RESTAURANT#GENERAL
+Seafood Dynamite,FOOD#QUALITY
+back garden area,AMBIENCE#GENERAL
+"Dancing, White River and Millenium rolls",FOOD#QUALITY
+quesadilla,FOOD#QUALITY
+guacamole,FOOD#QUALITY
+margaritas,DRINKS#QUALITY
+Indian Food,FOOD#QUALITY
+indian place,RESTAURANT#MISCELLANEOUS
+drink menu,DRINKS#STYLE_OPTIONS
+Voss bottles of water,DRINKS#PRICES
+view of river and NYC,LOCATION#GENERAL
+survice,SERVICE#GENERAL
+Egyptian restaurant,AMBIENCE#GENERAL
+baba ganoush,FOOD#QUALITY
+belly dancers,AMBIENCE#GENERAL
+hookah,AMBIENCE#GENERAL
+Raymond,SERVICE#GENERAL
+Pacifico,RESTAURANT#MISCELLANEOUS
+omlette for brunch,FOOD#QUALITY
+spinach,FOOD#QUALITY
+quacamole,FOOD#QUALITY
+wings with chimmichuri,FOOD#QUALITY
+chicken in the salads,FOOD#QUALITY
+portobello and asparagus mole,FOOD#QUALITY
+Indian Restaurant,RESTAURANT#GENERAL
+gyros,FOOD#QUALITY
+gyro meat,FOOD#QUALITY
+sausages,FOOD#QUALITY
+Greek and Cypriot dishes,FOOD#QUALITY
+gyro,FOOD#QUALITY
+booths,AMBIENCE#GENERAL
+Water's Edge,RESTAURANT#MISCELLANEOUS
+rooms,AMBIENCE#GENERAL
+views,LOCATION#GENERAL
+Paul,SERVICE#GENERAL
+bathroom,AMBIENCE#GENERAL
+bar drinks,DRINKS#QUALITY
+stuff tilapia,FOOD#QUALITY
+mens bathroom,AMBIENCE#GENERAL
+bread,FOOD#QUALITY
+appetizer of olives,FOOD#QUALITY
+main course,FOOD#QUALITY
+pear torte,FOOD#QUALITY
+boths,AMBIENCE#GENERAL
+service button,SERVICE#GENERAL
+looks,AMBIENCE#GENERAL
+Greg,SERVICE#GENERAL
+runner,SERVICE#GENERAL
+bev,DRINKS#PRICES
+dogs,FOOD#QUALITY
+trimmings,FOOD#STYLE_OPTIONS
+hot dog,FOOD#QUALITY
+Casa La Femme,RESTAURANT#GENERAL
+cocktail with Citrus Vodka and lemon and lime juice and mint leaves,DRINKS#QUALITY
+belly dancing show,AMBIENCE#GENERAL
+mushroom sauce,FOOD#QUALITY
+triple color and norwegetan rolls,FOOD#QUALITY
+special roll,FOOD#STYLE_OPTIONS
+regular roll,FOOD#STYLE_OPTIONS
+banana chocolate dessert,FOOD#QUALITY
+green tea tempura,FOOD#QUALITY
+appetizers,FOOD#QUALITY
+modern Japanese,FOOD#QUALITY
+scheme of mirrors,AMBIENCE#GENERAL
+modern Japanese food,FOOD#QUALITY
+mirrors,AMBIENCE#GENERAL
+Indo Chinese food,FOOD#QUALITY
+Chinese style Indian food,FOOD#QUALITY
+chicken lollipop,FOOD#QUALITY
+Chilli Chicken,FOOD#QUALITY
+vegetarian dish,FOOD#QUALITY
+Patsy's Pizza,RESTAURANT#GENERAL
+hot dogs,FOOD#QUALITY
+indian chinese food,FOOD#QUALITY
+Indian Chinese,FOOD#QUALITY
+Village Underground,RESTAURANT#GENERAL
+SERVICE,SERVICE#GENERAL
+DJ,AMBIENCE#GENERAL
+dinner for two,FOOD#PRICES
+environment,AMBIENCE#GENERAL
+Vanison,FOOD#QUALITY
+Bison,FOOD#QUALITY
+dessserts,FOOD#QUALITY
+selection of bottled beer,DRINKS#STYLE_OPTIONS
+fried oysters and clams,FOOD#QUALITY
+lobster knuckles,FOOD#STYLE_OPTIONS
+"""salt encrusted shrimp"" appetizer",FOOD#STYLE_OPTIONS
+Thai style Fried Sea Bass,FOOD#QUALITY
+grilled Mahi Mahi,FOOD#QUALITY
+chicken tikka masala,FOOD#PRICES
+Bukhara Grill,RESTAURANT#GENERAL
+lunch buffet,FOOD#PRICES
+Bukhara,RESTAURANT#GENERAL
+kimchee,FOOD#QUALITY
+Korean fair,FOOD#QUALITY
+four course prix fix menu,FOOD#QUALITY
+white organza tent,AMBIENCE#GENERAL
+bibimbap,FOOD#QUALITY
+stone bowl,FOOD#STYLE_OPTIONS
+nakgi-bokum,FOOD#QUALITY
+stir-fried squid,FOOD#QUALITY
+side dishes,FOOD#QUALITY
+risotto,FOOD#QUALITY
+farro salad,FOOD#QUALITY
+mashed yukon potatoes,FOOD#QUALITY
+east village pizza,RESTAURANT#GENERAL
+margherita pizza,FOOD#QUALITY
+slice of NYC pizza,FOOD#QUALITY
+Restaurant,AMBIENCE#GENERAL
+modern Japanese brasserie,RESTAURANT#GENERAL
+unmarked wooden doors,AMBIENCE#GENERAL
+décor,AMBIENCE#GENERAL
+private booths,AMBIENCE#GENERAL
+glass ceilings,AMBIENCE#GENERAL
+BBE $29 fixe prix menu,FOOD#PRICES
+sashimi amuse bouche,FOOD#QUALITY
+Grilled Black Cod,FOOD#QUALITY
+Grilled Salmon dish,FOOD#QUALITY
+sake’s,DRINKS#QUALITY
+frozen black sesame mousse,FOOD#QUALITY
+matcha (powdered green tea) and blueberry cheesecake,FOOD#QUALITY
+brasserie,RESTAURANT#GENERAL
+Zenkichi,RESTAURANT#GENERAL
+pita bread,FOOD#PRICES
+Shabu Shabu,FOOD#QUALITY
+meat,FOOD#QUALITY
+kimchi,FOOD#PRICES
+Korean food,FOOD#QUALITY
+fusion twists,FOOD#QUALITY
+pork belly tacos,FOOD#QUALITY
+pork croquette sandwich,FOOD#QUALITY
+bun,FOOD#QUALITY
+family seafood entree,FOOD#QUALITY
+main entree,FOOD#QUALITY
+mirrored walls,AMBIENCE#GENERAL
+japanese tapas,FOOD#STYLE_OPTIONS
+sitting space,AMBIENCE#GENERAL
+appetizer,FOOD#QUALITY
+fit-out,AMBIENCE#GENERAL
+furnishings,AMBIENCE#GENERAL
+palce,RESTAURANT#GENERAL
+STAFF,SERVICE#GENERAL
+pita,FOOD#QUALITY
+hummus,FOOD#QUALITY
+grilled octopus,FOOD#QUALITY
+eggplant,FOOD#QUALITY
+Hot Dogs,FOOD#QUALITY
+Bark,RESTAURANT#MISCELLANEOUS
+Slamwich,FOOD#QUALITY
+front of house staff,SERVICE#GENERAL
+fish dishes,FOOD#QUALITY
+BFC,RESTAURANT#MISCELLANEOUS
+girl,SERVICE#GENERAL
+Maitre-D,SERVICE#GENERAL
+maitre-D,SERVICE#GENERAL
+bottle of wine,DRINKS#QUALITY
+frontman,SERVICE#GENERAL
+Mussles,FOOD#QUALITY
+Lamb special,FOOD#QUALITY
+flank steak,FOOD#QUALITY
+The Four Seasons restaurant,RESTAURANT#GENERAL
+fish tacos,FOOD#QUALITY
+fire place,AMBIENCE#GENERAL
+Casa la Femme,RESTAURANT#GENERAL
+pasta,FOOD#QUALITY
+Green Tea creme brulee,FOOD#QUALITY
+onion rings,FOOD#QUALITY
+lemon chicken,FOOD#QUALITY
+honey walnut prawns,FOOD#QUALITY
+Italian Food,FOOD#QUALITY
+Mioposto,RESTAURANT#GENERAL
+Italian restaurant,RESTAURANT#GENERAL
+Kafta plate,FOOD#QUALITY
+Rice,FOOD#QUALITY
+staff members,SERVICE#GENERAL
+miso soup,FOOD#QUALITY
+apps,FOOD#QUALITY
+bus boy,SERVICE#GENERAL
+salsa,FOOD#QUALITY
+deck,AMBIENCE#GENERAL
+draft and bottle selection,DRINKS#STYLE_OPTIONS
+jukebox's,AMBIENCE#GENERAL
+bartenders,SERVICE#GENERAL
+owners,SERVICE#GENERAL
+beer selection,DRINKS#STYLE_OPTIONS
+upstairs,AMBIENCE#GENERAL
+balconey,RESTAURANT#MISCELLANEOUS
+Jellyfish,FOOD#QUALITY
+Horse Mackerel,FOOD#QUALITY
+Blue Fin Tuna,FOOD#QUALITY
+Sake Ikura roll,FOOD#QUALITY
+pieces,FOOD#STYLE_OPTIONS
+pumpkin ravioli,FOOD#QUALITY
+goat cheese gnocchi,FOOD#QUALITY
+filet mignon on top of spinach and mashed potatoes,FOOD#QUALITY
+artwork,AMBIENCE#GENERAL
+chicken curry,FOOD#QUALITY
+chana masala (garbanzo beans),FOOD#QUALITY
+saag,FOOD#QUALITY
+paneer,FOOD#QUALITY
+korma,FOOD#QUALITY
+lamb korma,FOOD#QUALITY
+saag paneer,FOOD#QUALITY
+samosas,FOOD#QUALITY
+naan,FOOD#QUALITY
+bhartha,FOOD#QUALITY
+chickpeas,FOOD#QUALITY
+fajita salad,FOOD#QUALITY
+colorado,FOOD#QUALITY
+fajitas,FOOD#QUALITY
+lunch spot,RESTAURANT#GENERAL
+mexican spot,RESTAURANT#GENERAL
+taco salads,FOOD#QUALITY
+burritos,FOOD#QUALITY
+enchiladas,FOOD#QUALITY
+Lebanese Food,FOOD#QUALITY
+Open Sesame,RESTAURANT#GENERAL
+chicken shawarma,FOOD#QUALITY
+OPEN SESAME,RESTAURANT#GENERAL
+Hummus,FOOD#QUALITY
+Dinners,FOOD#QUALITY
+open sesame combo plate,FOOD#PRICES
+side of potatoes,FOOD#QUALITY
+labne (yogurt dip),FOOD#QUALITY
+band,AMBIENCE#GENERAL
+shoe string onions,FOOD#QUALITY
+goat cheese pizza,FOOD#QUALITY
+grilled asparagus,FOOD#QUALITY
+fried brie with fruit,FOOD#QUALITY
+Winelist,DRINKS#STYLE_OPTIONS
+sommelier,SERVICE#GENERAL
+potions,FOOD#STYLE_OPTIONS
+Scooner or Later,RESTAURANT#GENERAL
+Coffee,DRINKS#QUALITY
+pizza menu,FOOD#QUALITY
+coffe,DRINKS#QUALITY
+servers behind the counter,SERVICE#GENERAL
+Ray's,RESTAURANT#GENERAL
+kafta plate,FOOD#QUALITY
+FOOD,FOOD#QUALITY
+PEOPLE,SERVICE#GENERAL
+Eggs,FOOD#QUALITY
+pancakes,FOOD#QUALITY
+potatoes,FOOD#QUALITY
+fresh fruit,FOOD#QUALITY
+yogurt,FOOD#QUALITY
+fish on the omikase platter,FOOD#QUALITY
+sashmi,FOOD#QUALITY
+oyster roll,FOOD#QUALITY
+Chuwam Mushi,FOOD#QUALITY
+Sushi place,RESTAURANT#GENERAL
+house special roll,FOOD#QUALITY
+Murphy's,RESTAURANT#MISCELLANEOUS
+Brunch,FOOD#QUALITY
+egg white omelet,FOOD#QUALITY
+Mexican place,RESTAURANT#GENERAL
+chicken soup,FOOD#QUALITY
+cooks,FOOD#QUALITY
+Space,RESTAURANT#MISCELLANEOUS
+employees,SERVICE#GENERAL
+Caesar salad,FOOD#QUALITY
+Margaritas,DRINKS#QUALITY
+art on the walls,AMBIENCE#GENERAL
+indain food,FOOD#QUALITY
+lunch menu,FOOD#PRICES
+ingrediants,FOOD#QUALITY
+brunch food,FOOD#QUALITY
+regular menu,FOOD#QUALITY
+SOHO location,LOCATION#GENERAL
+Salmon,FOOD#QUALITY
+Tuna,FOOD#QUALITY
+Fluke,FOOD#QUALITY
+Yellow Tail,FOOD#QUALITY
+Cod,FOOD#QUALITY
+Mackeral,FOOD#QUALITY
+Sea Urchin,FOOD#QUALITY
+Shrimp,FOOD#QUALITY
+Lobster,FOOD#QUALITY
+Sea Bream,FOOD#QUALITY
+Trout,FOOD#QUALITY
+Milk Fish,FOOD#QUALITY
+Eel,FOOD#QUALITY
+Crab,FOOD#QUALITY
+Sardine,FOOD#QUALITY
+Monk Fish,FOOD#QUALITY
+Roe,FOOD#QUALITY
+Scallop,FOOD#QUALITY
+Oysters,FOOD#QUALITY
+Toro,FOOD#STYLE_OPTIONS
+BLUE RIBBON SUSHI,RESTAURANT#GENERAL
+Blue Ribbon,RESTAURANT#GENERAL
+smoked yellowtail,FOOD#QUALITY
+Chef's Choice for sushi,FOOD#QUALITY
+waiting staff,SERVICE#GENERAL
+Seafood,FOOD#QUALITY
+"appetizer of oysters, lobster, crab (small size)",FOOD#QUALITY
+Seabass on lobster risotto,FOOD#QUALITY
+bar keep,SERVICE#GENERAL
+Crab Cakes,FOOD#QUALITY
+cakes,FOOD#QUALITY
+seasonal fish,FOOD#QUALITY
+waterfront setting,AMBIENCE#GENERAL
+caeser salad,FOOD#QUALITY
+young woman,SERVICE#GENERAL
+Management,SERVICE#GENERAL
+Breakfast,FOOD#QUALITY
+breakfast,FOOD#QUALITY
+bloody mary,DRINKS#QUALITY
+crab eggs benedict,FOOD#QUALITY
+menu items,FOOD#QUALITY
+chinese food,FOOD#QUALITY
+prawns,FOOD#QUALITY
+batter,FOOD#QUALITY
+walnuts,FOOD#QUALITY
+honey walnyt prawns,FOOD#QUALITY
+brocollis,FOOD#QUALITY
+brocolli,FOOD#QUALITY
+mango ginger creme brulee,FOOD#QUALITY
+glass walls,AMBIENCE#GENERAL
+Spanish Mackeral special appetizer,FOOD#QUALITY
+box sushi,FOOD#QUALITY
+eel with avodcao,FOOD#QUALITY
+omikase,FOOD#QUALITY
+specialty rolls,FOOD#QUALITY
+selection of sakes,DRINKS#STYLE_OPTIONS
+Green tea creme brulee,FOOD#QUALITY
+location along the marina in Long Beach,LOCATION#GENERAL
+restaurant staff,SERVICE#GENERAL
+sake selection,DRINKS#STYLE_OPTIONS
+Dungeness crabs,FOOD#QUALITY
+seafood dinners,FOOD#QUALITY
+Rays,RESTAURANT#GENERAL
+black cod in sake kasu,FOOD#QUALITY
+dessert of a port and chocolate tasting,FOOD#QUALITY
+corn beef hash,FOOD#QUALITY
+B Fast burritos,FOOD#QUALITY
+Standby,RESTAURANT#GENERAL
+bar tenders,DRINKS#STYLE_OPTIONS
+cheese fries,FOOD#QUALITY
+price fixed pre-show dinner,FOOD#PRICES
+wood decor,AMBIENCE#GENERAL
+subwoofer to the sound system,AMBIENCE#GENERAL
+shellfish and shrimp appetizer,FOOD#QUALITY
+asparagus,FOOD#QUALITY
+9 oz steak,FOOD#QUALITY
+peppercorn sauce,FOOD#QUALITY
+red wine reduction,FOOD#QUALITY
+Server,SERVICE#GENERAL
+lobster 3 ways,FOOD#QUALITY
+bathroom stall,RESTAURANT#MISCELLANEOUS
+pizza joint,RESTAURANT#GENERAL
+feeling,AMBIENCE#GENERAL
+Mioposto Café,RESTAURANT#GENERAL
+pizza’s,FOOD#QUALITY
+Pizza Ensalata,FOOD#QUALITY
+chef special dinner,FOOD#QUALITY
+plate,FOOD#PRICES
+exotic fish,FOOD#QUALITY
+honwy walnut prawns,FOOD#QUALITY
+sushi dishes,FOOD#STYLE_OPTIONS
+pepperoni's,FOOD#STYLE_OPTIONS
+Balcony,AMBIENCE#GENERAL
+Portions,FOOD#STYLE_OPTIONS
+menu selection,FOOD#STYLE_OPTIONS
+Creme Brulee,FOOD#QUALITY
+Indoor ambience,AMBIENCE#GENERAL
+balcony,AMBIENCE#GENERAL
+table,AMBIENCE#GENERAL
+filet mignon,FOOD#QUALITY
+restroom,RESTAURANT#MISCELLANEOUS
+chips  and salsa,FOOD#QUALITY
+Raouls chicken vegetable soup,FOOD#QUALITY
+catering,FOOD#QUALITY
+Snooze,AMBIENCE#GENERAL
+orange juice,DRINKS#PRICES
+juice,DRINKS#STYLE_OPTIONS
+breakfast burrito,FOOD#PRICES
+Ray's Boathouse,RESTAURANT#GENERAL
+Sound views,LOCATION#GENERAL
+Brooke,SERVICE#GENERAL
+white gulf prawns,FOOD#STYLE_OPTIONS
+manila clams,FOOD#QUALITY
+soy dressing,FOOD#QUALITY
+butter sauce,FOOD#QUALITY
+Shilshole Sampler,FOOD#QUALITY
+seared Alaskan sea scallops,FOOD#QUALITY
+grilled Alaskan King Salmon,FOOD#QUALITY
+creamed Washington russet potatoes,FOOD#QUALITY
+green beans,FOOD#QUALITY
+entertainment,AMBIENCE#GENERAL
+tiramisu chocolate cake,FOOD#QUALITY
+outdoor restaurants,AMBIENCE#GENERAL
+quantity,FOOD#STYLE_OPTIONS
+MEAT dishes,FOOD#STYLE_OPTIONS
+two types of sake,DRINKS#QUALITY
+bottle,DRINKS#PRICES
+table by the window,LOCATION#GENERAL
+host,SERVICE#GENERAL
+entrees,FOOD#STYLE_OPTIONS
